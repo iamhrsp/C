@@ -1,0 +1,5 @@
+1. Using char datatype in scanf functions has been descibed in a .c file. While reading the character, any spaces(new line, space) are also considered as an input. So be ,mindful in specifying how you want your char inputs to be typed.
+
+2. While using comparison operators for decimal numbers, one has to be careful about precision of digits used before and after the decimal point. It gives erraneous results. eg 5.00000000000000 may be equal to 5.000000000000001
+
+3.
